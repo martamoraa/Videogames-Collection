@@ -2,7 +2,7 @@
 
 ## Temàtica i descripció
 
-Catàleg de videojocs fet amb **Vue 3**. L'aplicació mostra una col·lecció de videojocs (títol, gènere, plataforma, any, desenvolupador, valoració i descripció) llegida des de **Cloud Firestore**, amb navegació entre vistes mitjançant **Vue Router**. Cada joc té una pàgina pròpia amb el tràiler (que s'inicia automàticament), un resum més extens i ressenyes de mitjans professionals. També inclou un formulari de registre i inici de sessió amb **Firebase Authentication** i un cercador. És la primera web amb Vue de l'assignatura *Web dinàmica* (Grau en Disseny Digital i Tecnologies Creatives).
+Catàleg de videojocs fet amb **Vue 3**. L'aplicació mostra una col·lecció de videojocs (títol, gènere, plataforma, any, desenvolupador, valoració i descripció) llegida des de **Cloud Firestore**, amb navegació entre vistes mitjançant **Vue Router**. Cada joc té una pàgina pròpia amb el tràiler (que s'inicia automàticament), un resum més extens i ressenyes de mitjans professionals. També inclou un formulari de registre i inici de sessió amb **Firebase Authentication** i un cercador. 
 
 **Web publicada:** `https://videogames-collection-e6bc7.web.app` 
 
