@@ -1,0 +1,10 @@
+[
+  { "titol": "The Legend of Zelda: Breath of the Wild", "genere": "Aventura", "plataforma": "Nintendo Switch", "any": 2017, "desenvolupador": "Nintendo EPD", "valoracio": 10, "descripcio": "Explora un immens món obert d'Hyrule i derrota Calamity Ganon amb total llibertat." },
+  { "titol": "Hollow Knight", "genere": "Metroidvania", "plataforma": "PC", "any": 2017, "desenvolupador": "Team Cherry", "valoracio": 9.5, "descripcio": "Un joc 2D d'acció i exploració en un regne subterrani d'insectes ple de secrets." },
+  { "titol": "Celeste", "genere": "Plataformes", "plataforma": "PC", "any": 2018, "desenvolupador": "Maddy Makes Games", "valoracio": 9, "descripcio": "Ajuda la Madeline a escalar la muntanya Celeste en un repte de precisió i superació." },
+  { "titol": "Stardew Valley", "genere": "Simulació", "plataforma": "PC", "any": 2016, "desenvolupador": "ConcernedApe", "valoracio": 9, "descripcio": "Hereta una granja i construeix la teva vida rural conreant, pescant i fent amics." },
+  { "titol": "Portal 2", "genere": "Trencaclosques", "plataforma": "PC", "any": 2011, "desenvolupador": "Valve", "valoracio": 9.5, "descripcio": "Resol trencaclosques amb portals en primera persona amb molt d'humor i enginy." },
+  { "titol": "The Witcher 3: Wild Hunt", "genere": "RPG", "plataforma": "PlayStation 4", "any": 2015, "desenvolupador": "CD Projekt Red", "valoracio": 9.5, "descripcio": "Encarna Geralt de Rivia en una llarga aventura de fantasia fosca i decisions morals." },
+  { "titol": "Super Mario Odyssey", "genere": "Plataformes", "plataforma": "Nintendo Switch", "any": 2017, "desenvolupador": "Nintendo EPD", "valoracio": 9, "descripcio": "Viatja per regnes increïbles amb Mario i la seva gorra Cappy per rescatar la princesa Peach." },
+  { "titol": "Hades", "genere": "Roguelike", "plataforma": "PC", "any": 2020, "desenvolupador": "Supergiant Games", "valoracio": 9.5, "descripcio": "Escapa de l'inframón grec en un frenètic roguelike d'acció amb una història que evoluciona." }
+]
